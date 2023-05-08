@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/drawable/back_select.xml" value="0.208" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/drawable/back_tabs.xml" value="0.208" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/drawable/background_status.xml" value="0.164" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/drawable/frontbg.xml" value="0.256" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.208" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/activity_main.xml" value="0.246875" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/activity_main2.xml" value="0.13177083333333334" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/activity_service_provider_registration.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/first_fragment.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/fragment_actigve.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/fragment_active.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/fragment_inactive.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/fragment_inactive2.xml" value="0.27239583333333334" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/homepage.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/item_view_inactive.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/list_item.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/second_fragment.xml" value="0.31197916666666664" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/tabbar.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/tinit/StudioProjects/ServiceProviderInterviewCRUD/app/src/main/res/layout/toolbar.xml" value="0.1546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

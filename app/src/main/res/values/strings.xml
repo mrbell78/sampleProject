@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ServiceProviderInterviewCRUD</string>
+    <string name="topbar_tittle">Friendship Clinic</string>
+    <string name="topbar_subtittle">Service Provider List</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
